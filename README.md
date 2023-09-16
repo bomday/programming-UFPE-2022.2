@@ -10,7 +10,7 @@
 # <p id="english" align="center">Programming 1 (P1)</p>
 > Exercise lists completed during the Programming 1 (P1) course of the first term in the Information Systems major at CIN at UFPE.
 
-During the course, various activities were used to calculate the grade. The final grade was made up of the lists in this repository and the final project.
+During the course, various activities were used to calculate the grade. The final grade was made up of the lists in this repository and the [final project](https://github.com/bomday/projeto-p1-equipe7).
 
 ### Course Syllabus
 
