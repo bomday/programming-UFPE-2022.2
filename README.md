@@ -29,14 +29,14 @@ Implementation project.
 
 Each folder contains a list with the name of the subject covered. The order of the lists for monitoring the progress of knowledge and building solutions can be followed below:
 
-0. Training list
-1. Conditional Commands
-2. Repetition Loops
-3. Lists
-4. Functions and Variable Scope
-5. Recursion
-6. Tuples and Dictionaries
-7. OOP
+0. Lista de Treinamento (Training list)
+1. Comandos Condicionais (Conditional Commands)
+2. Laços de Repetição (Repetition Loops)
+3. Listas (Lists)
+4. Funções e Escopo de Variável (Functions and Variable Scope)
+5. Recursão (Recursion)
+6. Tuplas e Dicionários (Tuples and Dictionaries)
+7. POO (OOP)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
